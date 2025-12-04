@@ -1,3 +1,0 @@
-# ingestion module
-
-Placeholder file.

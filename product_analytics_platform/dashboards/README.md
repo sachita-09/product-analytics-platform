@@ -1,3 +1,0 @@
-# dashboards module
-
-Placeholder file.

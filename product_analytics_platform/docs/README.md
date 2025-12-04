@@ -1,3 +1,0 @@
-# docs module
-
-Placeholder file.
