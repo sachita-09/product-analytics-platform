@@ -1,3 +1,0 @@
-# infra module
-
-Placeholder file.

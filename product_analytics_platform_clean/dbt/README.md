@@ -1,3 +1,0 @@
-# dbt module
-
-Placeholder file.
